@@ -82,8 +82,8 @@
     },
     {
       "name": "ArrayReversal FDIBA",
-      "setup": "cd src && javac exercise4/NumberCounter.java",
-      "run": "cd src && java exercise4.NumberCounter",
+      "setup": "cd src && javac exercise4/ArrayReversal.java",
+      "run": "cd src && java exercise4.ArrayReversal",
       "input": "5 A B I D F",
       "output": "Reversed symbols: [F, D, I, B, A]",
       "comparison": "included",
